@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-► Currently using Python the most. 
-► I have a lot of experience with databases and using MySQL with Python in general. 
-► Planning on learning Java as soon as my Python projects are finsished and I feel like I know Python properly
-► In a meantime I would like to continue learning Git commands and how it works in general, and maybe try learning Docker too
+► Currently using Python the most.<br>
+► I have a lot of experience with databases and using MySQL with Python in general.<br>
+► Planning on learning Java as soon as my Python projects are finsished and I feel like I know Python properly.<br>
+► In a meantime I would like to continue learning Git commands and how it works in general, and maybe try learning Docker too.<br>
 
 <!--
 **TheTomik1/TheTomik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
