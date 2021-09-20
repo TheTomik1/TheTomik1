@@ -2,7 +2,7 @@
 
 ► Currently using Python the most.<br>
 ► I have a lot of experience with databases and using MySQL with Python in general.<br>
-► Planning on learning Java as soon as my Python projects are finsished and I feel like I know Python properly.<br>
+► Planning on learning Java as soon as my Python projects are finsished and I will have more time.<br>
 ► In a meantime I would like to continue learning Git commands and how it works in general, and maybe try learning Docker too.<br>
 
 <!--
