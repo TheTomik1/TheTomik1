@@ -39,4 +39,4 @@ Hey, I am Thomas and I am from Slovakia. I am a very passionate about programmin
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<h6 align="center"><sup>This profile READme is still under construction.</sup><h6>
+<h6 align="center"><sup>This profile README is still under construction.</sup><h6>
