@@ -5,7 +5,7 @@ Hey, I am Thomas and I am from Slovakia. I am very passionate about programming 
 <h3 align="center"> 💬 Let's have a chat <h3>
 <h5 align="center">&nbsp;Discord: TheTomik#1414</h5>
 
-<h3 align="center"> 🚀 Programming languages I have worked with <h3>
+<h3 align="center"> 🚀 Programming/Markup languages I have worked with <h3>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
