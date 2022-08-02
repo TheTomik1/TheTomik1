@@ -4,6 +4,7 @@ Hey, I am Thomas and I am from Slovakia. I am very passionate about programming 
 
 <h3 align="center"> 💬 Let's have a chat <h3>
 <h5 align="center">&nbsp;Discord: TheTomik#1414</h5>
+<h5 align="center">&nbsp;Email: tomset111@gmail.com</h5>
 
 <h3 align="center"> 🚀 Programming/Markup languages I have worked with <h3>
 <p align="center">
