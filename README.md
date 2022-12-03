@@ -28,7 +28,7 @@ Hey, I am Thomas and I am from Slovakia. I am passionate about programming and e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" alt="discordjs" width="45" height="45"/>
  
 <h3 align="center"> 🏗️ Preferred IDEs <h3>
-<h5 align="center">Basically anything from JetBrains.</h5>
+<h5 align="center">Anything from JetBrains. I am avoiding VS Code as much as I can.</h5>
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
