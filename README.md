@@ -29,8 +29,5 @@ Hey, I am Thomas and I am from Slovakia. I am passionate about programming and e
  
 <h3 align="center"> 🏗️ Preferred IDEs <h3>
 <h5 align="center">Anything from JetBrains. I am avoiding VS Code as much as I can.</h5>
-
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
+ 
 <h6 align="center"><sup>This profile README is still under construction.</sup><h6>
