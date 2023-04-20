@@ -38,4 +38,3 @@ Hey, I am Thomas and I am from Slovakia. I am passionate about programming and e
     <img alt="stats2" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheTomik1&theme=2077">
     <img alt="stats3" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheTomik1&theme=2077">
  </div>
-<h3 align="center">🏗️ Preferred IDEs<h3>
