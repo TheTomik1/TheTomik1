@@ -32,9 +32,3 @@ Hey, I am Thomas and I am from Slovakia. I am passionate about programming and e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
  
-<h3 align="center">📈 Stats </h3>
- <div align="center">
-    <img alt="stats1" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheTomik1&theme=2077">
-    <img alt="stats2" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheTomik1&theme=2077">
-    <img alt="stats3" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheTomik1&theme=2077">
- </div>
