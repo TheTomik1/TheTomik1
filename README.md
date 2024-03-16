@@ -7,5 +7,3 @@
 <h5 align="center">&nbsp;Email: tomset111@gmail.com</h5>
 
 <img src="/github-metrics.svg" alt="Metrics">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/427360644333961246)](https://discord.com/users/427360644333961246)
